@@ -1,6 +1,5 @@
 # super-spider-bot
-Super-Spider-Bot is a revolutionary, all-in-one cybersecurity framework designed for modern penetration testing, security auditing, and cyber threat monitoring.
-This powerful tool enables security professionals, government agencies, and ethical hackers to conduct comprehensive security assessments through multiple communication platforms including Telegram, Discord, WhatsApp, Signal, and Slack.
+Super-Spider-Bot is a revolutionary, all-in-one cybersecurity framework designed for modern penetration testing, security auditing, and cyber threat monitoring. This powerful tool enables security professionals, government agencies, and ethical hackers to conduct comprehensive security assessments through multiple communication platforms including Telegram, Discord, WhatsApp, Signal, and Slack.
 
 What sets Super-Spider-Bot apart is its unique ability to function as a remote command center accessible from anywhere in the world through your preferred messaging platform. Whether you're conducting a cyber drill, monitoring network infrastructure, or performing penetration testing, Super-Spider-Bot puts the power of enterprise-grade security tools in the palm of your hand. 📱💻
 
@@ -40,65 +39,80 @@ Social media intelligence gathering
 
 USB drop attack simulations
 
-🔐 Password Cracking & Analysis
-Multi-algorithm hash cracking (MD5, SHA1, SHA256, bcrypt, etc.)
+# 🔐 Password Cracking & Analysis
 
-Rainbow table integration
+* Multi-algorithm hash cracking (MD5, SHA1, SHA256, bcrypt, etc.)
 
-Dictionary and brute-force attacks
+* Rainbow table integration
 
-GPU-accelerated cracking support
+* Dictionary and brute-force attacks
 
-Password policy auditing
+* GPU-accelerated cracking support
 
-Wi-Fi password cracking (WEP, WPA, WPA2)
+* Password policy auditing
 
-🌐 IoT Security Assessment
+* Wi-Fi password cracking (WEP, WPA, WPA2)
+
+# 🌐 IoT Security Assessment
 IoT device discovery and fingerprinting
 
-Firmware analysis and extraction
+* Firmware analysis and extraction
 
-Default credential checking
+* Default credential checking
 
-Exploitation of common IoT vulnerabilities
+* Exploitation of common IoT vulnerabilities
 
-Smart home device penetration testing
+* Smart home device penetration testing
 
-Industrial control system (ICS) assessment
+* Industrial control system (ICS) assessment
 
-📊 Cyber Drill & Training
+# 📊 Cyber Drill & Training
 Simulated attack scenarios
 
 Red team automation
 
 Blue team alert generation
 
-Performance metrics and reporting
+* Performance metrics and reporting
 
-Customizable exercise templates
+* Customizable exercise templates
 
-Real-time scoreboard and tracking
+* Real-time scoreboard and tracking
 
-👁️ Government Threat Monitoring
+# 👁️ Government Threat Monitoring
 
-Continuous network surveillance
+* Continuous network surveillance
 
-Anomaly detection and alerting
+* Anomaly detection and alerting
 
-Threat intelligence integration
+* Threat intelligence integration
 
-Dark web monitoring capabilities
+* Dark web monitoring capabilities
 
-Geopolitical threat tracking
+* Geopolitical threat tracking
 
-Automated report generation for compliance
+* Automated report generation for compliance
 
-🛠️ Remote Command Execution
+# 🛠️ Remote Command Execution
+
 IoT device command injection
 
 Remote system administration
 
 Scheduled task automation
+
+
+
+## How to clone therepo
+```bash
+git clone https://github.com/Iankulani/super-spider-bot.git
+cd super-spider-bot
+```
+
+  ## How to run
+  ```bash
+python super-spider-bot.py
+```
 
 Distributed attack coordination
 
