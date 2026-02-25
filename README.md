@@ -5,39 +5,38 @@ What sets Super-Spider-Bot apart is its unique ability to function as a remote c
 
 With built-in support for IoT devices, social engineering frameworks, and advanced password cracking capabilities, this tool represents the next generation of accessible cybersecurity solutions. Government agencies can leverage its monitoring capabilities to track emerging cyber threats, while private sector security teams can use it for routine security assessments and incident response.
 
-⚡ KEY FEATURES
+# ⚡ KEY FEATURES
 🚀 Multi-Platform Command & Control
 Seamless integration with Telegram, Discord, WhatsApp, Signal, and Slack
 
-Real-time command execution from any device with messaging capabilities
+* Real-time command execution from any device with messaging capabilities
 
-Encrypted communication channels for secure operations
+* Encrypted communication channels for secure operations
 
-Multi-user support with role-based access control
+* Multi-user support with role-based access control
 
-🔍 Advanced Network Penetration Testing
+# 🔍 Advanced Network Penetration Testing
 Comprehensive network scanning (Nmap integration, custom port scanners)
 
 Vulnerability assessment and exploitation
 
-Wireless network auditing (Wi-Fi, Bluetooth)
+* Wireless network auditing (Wi-Fi, Bluetooth)
 
-Man-in-the-middle attack frameworks
+* Man-in-the-middle attack frameworks
 
-Packet crafting and analysis
+* Packet crafting and analysis
 
-🎣 Social Engineering Toolkit
-Phishing campaign management
+# 🎣 Social Engineering Toolkit
 
-Credential harvesting modules
+* Phishing campaign management
 
-Fake login page generator
+* Credential harvesting modules
 
-Spear-phishing automation
+* Fake login page generator
 
-Social media intelligence gathering
+* Spear-phishing automation
 
-USB drop attack simulations
+* Social media intelligence gathering
 
 # 🔐 Password Cracking & Analysis
 
