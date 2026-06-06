@@ -66,11 +66,12 @@ IoT device discovery and fingerprinting
 * Industrial control system (ICS) assessment
 
 # 📊 Cyber Drill & Training
-Simulated attack scenarios
 
-Red team automation
+* Simulated attack scenarios
 
-Blue team alert generation
+* Red team automation
+
+* Blue team alert generation
 
 * Performance metrics and reporting
 
