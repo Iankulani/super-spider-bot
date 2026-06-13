@@ -107,12 +107,15 @@ IoT device discovery and fingerprinting
 
 # 🛠️ Remote Command Execution
 
-IoT device command injection
+* IoT device command injection
 
-Remote system administration
+* Remote system administration
 
-Scheduled task automation
+* Scheduled task automation
 
+* Distributed attack coordination
+ 
+* Cloud service integration (AWS, Azure, GCP)
 
 
 ## How to clone therepo
@@ -127,5 +130,4 @@ python super-spider-bot.py
 ```
 
 Distributed attack coordination
-
 Cloud service integration (AWS, Azure, GCP)
